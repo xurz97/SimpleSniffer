@@ -1,0 +1,15 @@
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.csproj.AssemblyReference.cache
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.csproj.SuggestedBindingRedirects.cache
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.Form1.resources
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.Properties.Resources.resources
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.csproj.GenerateResource.cache
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.csproj.CoreCompileInputs.cache
+C:\Users\xurz97\source\repos\SimpleSniffer\bin\Release\SimpleSniffer.exe.config
+C:\Users\xurz97\source\repos\SimpleSniffer\bin\Release\SimpleSniffer.exe
+C:\Users\xurz97\source\repos\SimpleSniffer\bin\Release\SimpleSniffer.pdb
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.exe
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.pdb
+C:\Users\xurz97\source\repos\SimpleSniffer\bin\Release\SharpPcap.dll
+C:\Users\xurz97\source\repos\SimpleSniffer\bin\Release\System.Memory.dll
+C:\Users\xurz97\source\repos\SimpleSniffer\bin\Release\SharpPcap.pdb
+C:\Users\xurz97\source\repos\SimpleSniffer\obj\Release\SimpleSniffer.csproj.CopyComplete
